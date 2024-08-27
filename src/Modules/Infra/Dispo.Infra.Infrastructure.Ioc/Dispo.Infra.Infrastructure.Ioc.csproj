@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Shared\Dispo.Shared.Core.Domain\Dispo.Shared.Core.Domain.csproj" />
+    <ProjectReference Include="..\..\Shared\Dispo.Shared.Filter\Dispo.Shared.Filter.csproj" />
     <ProjectReference Include="..\Dispo.Infra.Core.Application\Dispo.Infra.Core.Application.csproj" />
     <ProjectReference Include="..\Dispo.Infra.Infrastructure.Persistence\Dispo.Infra.Infrastructure.Persistence.csproj" />
   </ItemGroup>

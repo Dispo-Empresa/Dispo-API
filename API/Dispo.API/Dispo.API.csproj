@@ -31,6 +31,7 @@
     <ProjectReference Include="..\..\src\Modules\PurchaseOrder\Dispo.PurchaseOrder.Core.Application\Dispo.PurchaseOrder.Core.Application.csproj" />
     <ProjectReference Include="..\..\src\Modules\PurchaseOrder\Dispo.PurchaseOrder.Infrastructure.IoC\Dispo.PurchaseOrder.Infrastructure.IoC.csproj" />
     <ProjectReference Include="..\..\src\Modules\Shared\Dispo.Shared.Core.Domain\Dispo.Shared.Core.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Modules\Shared\Dispo.Shared.Filter\Dispo.Shared.Filter.csproj" />
     <ProjectReference Include="..\..\src\Modules\Shared\Dispo.Shared.Infrastructure.Persistence\Dispo.Shared.Infrastructure.Persistence.csproj" />
   </ItemGroup>
 
